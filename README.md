@@ -5,7 +5,8 @@ This Project was part of the Hardware I Module in the MRAC1 course, it ran in co
 - [OVERVIEW](#overview)
 - [REQUIREMENTS](#requirements)
 - [ARDUINO](#arduino)
-
+- [DEMO](#demo)
+  
 ## OVERVIEW
 
 ### IMPETUS
@@ -44,3 +45,4 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 
 [Circuit Diagram.pdf](https://github.com/user-attachments/files/17791009/Circuit.Diagram.pdf)
 
+## DEMO
