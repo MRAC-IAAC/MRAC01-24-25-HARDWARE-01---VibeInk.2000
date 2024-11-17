@@ -46,3 +46,29 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 [Circuit Diagram.pdf](https://github.com/user-attachments/files/17791009/Circuit.Diagram.pdf)
 
 ## DEMO
+
+### END EFFECTOR
+
+
+![DSCF4351-min](https://github.com/user-attachments/assets/dd8fe926-c866-4d6d-8291-be1a1f8a35b0)
+
+![DSCF4341-min](https://github.com/user-attachments/assets/8fa318b5-6347-4047-b84e-59d8d95682fb)
+
+![DSCF4369-min](https://github.com/user-attachments/assets/6d4abbea-2b2d-4caa-a9c8-de7064ca0b5f)
+
+
+### PAINTINGS
+
+
+![IMG_6410-min](https://github.com/user-attachments/assets/5a807d86-840e-4c5e-bbc0-316a9f65783a)
+
+![IMG_6570-min](https://github.com/user-attachments/assets/bdc68eb8-fe5c-4d04-978b-eb34f1158df0)
+
+![IMG_6553](https://github.com/user-attachments/assets/853bb007-abc2-4c56-beba-7da433562e86)
+
+
+## AUTHORS
+
+- Jose
+
+
