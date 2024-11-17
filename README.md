@@ -3,7 +3,7 @@ This Project was part of the Hardware I Module in the MRAC1 course, it ran in co
 
 ## INDEX 
 - [OVERVIEW](#overview)
-- [REQUIREMENTS](requirements)
+- [REQUIREMENTS](#requirements)
 
 ## OVERVIEW
 
