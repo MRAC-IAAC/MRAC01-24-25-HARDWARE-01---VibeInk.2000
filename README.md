@@ -18,8 +18,14 @@ This excited fluid jet is then moved along a path at a specific speed and height
 
 ## REQUIREMENTS
 
+[exploted.pdf](https://github.com/user-attachments/files/17790748/exploted.pdf)
+
 ### SOFTWARE
 - Rhino (3D Modelling Software)
 - Grasshopper (Toolpath Design and I/O)
 - Arduino IDE (End Effector Actuation)
 
+### HARDWARE
+- Laser Cutter
+- 3D Printer
+- Industrial Robotic Arm (preferrebaly 6 axis)
