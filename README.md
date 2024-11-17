@@ -18,7 +18,7 @@ This excited fluid jet is then moved along a path at a specific speed and height
 
 ## REQUIREMENTS
 
-[exploted.pdf](https://github.com/user-attachments/files/17790748/exploted.pdf)
+![exploted](https://github.com/user-attachments/assets/b8b13584-ed41-4a3a-a26f-5ea651172d89)
 
 ### SOFTWARE
 - Rhino (3D Modelling Software)
