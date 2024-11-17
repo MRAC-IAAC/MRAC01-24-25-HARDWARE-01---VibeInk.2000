@@ -33,9 +33,14 @@ This excited fluid jet is then moved along a path at a specific speed and height
 
 ### LIST OF MATERIALS
 
-| Part NO. | Ct.  | Part Name | Material | Manufacturing | 
-| :------- |:----:| :--------:| :------: | :-----------: |
-| SP01 | x1 | Side Panel | Acrylic | Laser Cut |
+The follwoing is a detailed list of all the components used to manufactur the end effector.
+
+[List of Materials.pdf](https://github.com/user-attachments/files/17791006/List.of.Materials.pdf)
+
 
 ##ARDUINO
-This is a circuit diagram showing the manner in which the Arduino Diagrtam is wired
+
+This is a circuit diagram showing the manner in which the Arduino Diagrtam is wired.
+
+[Circuit Diagram.pdf](https://github.com/user-attachments/files/17791009/Circuit.Diagram.pdf)
+
