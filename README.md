@@ -38,7 +38,7 @@ The follwoing is a detailed list of all the components used to manufactur the en
 [List of Materials.pdf](https://github.com/user-attachments/files/17791006/List.of.Materials.pdf)
 
 
-##ARDUINO
+## ARDUINO
 
 This is a circuit diagram showing the manner in which the Arduino Diagrtam is wired.
 
