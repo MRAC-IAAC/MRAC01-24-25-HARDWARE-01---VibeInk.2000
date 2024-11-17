@@ -32,12 +32,10 @@ This excited fluid jet is then moved along a path at a specific speed and height
 - Industrial Robotic Arm (preferrebaly 6 axis)
 
 ### LIST OF MATERIALS
-![HARDWARE Presentation - Neil-Nacho-Krys](https://github.com/user-attachments/assets/2d87007d-9ebe-4928-b95d-223d1cce1d96)
-![HARDWARE Presentation - Neil-Nacho-Krys (1)](https://github.com/user-attachments/assets/96c74de4-122a-4e01-b1d3-08740d30de85)
-![HARDWARE Presentation - Neil-Nacho-Krys (2)](https://github.com/user-attachments/assets/05dcff85-aacf-4bfe-88b5-341161ba1831)
-![HARDWARE Presentation - Neil-Nacho-Krys (3)](https://github.com/user-attachments/assets/3c131e1a-d480-4430-b454-f2392cb37a9b)
-![HARDWARE Presentation - Neil-Nacho-Krys (4)](https://github.com/user-attachments/assets/2a276352-ee29-4e15-ad1b-73db635c19fc)
-![HARDWARE Presentation - Neil-Nacho-Krys (5)](https://github.com/user-attachments/assets/8130098f-e343-408c-9f93-9d0d289a6d4d)
+
+| Part NO. | Ct.  | Part Name | Material | Manufacturing | 
+| :------- |:----:| :--------:| :------: | :-----------: |
+| SP01 | x1 | Side Panel | Acrylic | Laser Cut |
 
 ##ARDUINO
 This is a circuit diagram showing the manner in which the Arduino Diagrtam is wired
