@@ -4,6 +4,7 @@ This Project was part of the Hardware I Module in the MRAC1 course, it ran in co
 ## INDEX 
 - [OVERVIEW](#overview)
 - [REQUIREMENTS](#requirements)
+- [ARDUINO](#arduino)
 
 ## OVERVIEW
 
@@ -38,3 +39,5 @@ This excited fluid jet is then moved along a path at a specific speed and height
 ![HARDWARE Presentation - Neil-Nacho-Krys (4)](https://github.com/user-attachments/assets/2a276352-ee29-4e15-ad1b-73db635c19fc)
 ![HARDWARE Presentation - Neil-Nacho-Krys (5)](https://github.com/user-attachments/assets/8130098f-e343-408c-9f93-9d0d289a6d4d)
 
+##ARDUINO
+This is a circuit diagram showing the manner in which the Arduino Diagrtam is wired
