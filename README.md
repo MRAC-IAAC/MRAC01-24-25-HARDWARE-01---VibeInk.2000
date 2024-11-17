@@ -69,6 +69,8 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 
 ## AUTHORS
 
-- Jose
+- Nacho Fuentes-Cantillana Monereo 
+- Neil Trouw
+- Krystene Kontos https://ca.linkedin.com/in/krystyne-athanasia-kontos
 
 
