@@ -1,4 +1,4 @@
-# MRAC01-24-25-HARDWARE-01---VibeInk.2000
+# MRAC01(24/25): HARDWARE 01 - VibeInk.2000
 This Project was part of the Hardware I Module in the MRAC1 course, it ran in conjunction with the Studio I module. The goal was to design an end effector for the ABB 6620 robotic arm, the end effector needed to include an Arduino controlled actuator. The purpose of the end effector is to spill.
 
 ## INDEX 
@@ -6,6 +6,8 @@ This Project was part of the Hardware I Module in the MRAC1 course, it ran in co
 - [REQUIREMENTS](#requirements)
 - [ARDUINO](#arduino)
 - [DEMO](#demo)
+- [AUTHORS](#authors)
+- [REFERNCES](#references)
   
 ## OVERVIEW
 
@@ -69,8 +71,14 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 
 ## AUTHORS
 
-- Nacho Fuentes-Cantillana Monereo 
-- Neil Trouw
-- Krystene Kontos https://ca.linkedin.com/in/krystyne-athanasia-kontos
+- Nacho Fuentes-Cantillana Monereo   https://es.linkedin.com/in/nacho-monereo
+- Neil Trouw   https://za.linkedin.com/in/neil-trouw-832755262
+- Krystene Kontos   https://ca.linkedin.com/in/krystyne-athanasia-kontos
 
+## REFERENCES
+
+- Cantilever beam vibration mode shape functions | download scientific diagram. Available at: https://www.researchgate.net/figure/Cantilever-beam-vibration-mode-shape-functions_fig1_261145369 (Accessed: 11 November 2024).
+- byjgagneastro, P. (2020) The physics of kettle streams, Coffee ad Astra. Available at: https://coffeeadastra.com/2020/05/23/the-physics-of-kettle-streams/ (Accessed: 11 November 2024).
+- Figure 2. (a) the sinusoidal perturbation applied on a parameter P, and... Available at: https://www.researchgate.net/figure/a-The-sinusoidal-perturbation-applied-on-a-parameter-p-and-the-square-wave-function_fig2_271724917 (Accessed: 11 November 2024).
+- Portillo, D. https://www.researchgate.net/figure/Oscillatory-fluid-motion-within-a-fluidic-oscillator-at-various-phase-angles-PH_fig1_353538440
 
