@@ -7,7 +7,9 @@ This Project was part of the Hardware I Module in the MRAC1 course, it ran in co
 - [ARDUINO](#arduino)
 - [DEMO](#demo)
 - [AUTHORS](#authors)
+- [ACKNOWLEDGEMENTS](#ACKNOWLEDGEMENTS)
 - [REFERNCES](#references)
+  
   
 ## OVERVIEW
 
@@ -47,6 +49,14 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 
 [Circuit Diagram.pdf](https://github.com/user-attachments/files/17791009/Circuit.Diagram.pdf)
 
+### ELECTRONICS HARWARE COMPONENTS
+
+- Arduino UNO
+- ULN2003 driver
+- L298N Motor Driver
+- 28BYJ-48 stepper
+- DC Motor
+
 ## DEMO
 
 ### END EFFECTOR
@@ -74,6 +84,10 @@ This is a circuit diagram showing the manner in which the Arduino Diagrtam is wi
 - Nacho Fuentes-Cantillana Monereo   https://es.linkedin.com/in/nacho-monereo
 - Neil Trouw   https://za.linkedin.com/in/neil-trouw-832755262
 - Krystene Kontos   https://ca.linkedin.com/in/krystyne-athanasia-kontos
+
+## ACKNOWLEDGEMENTS
+
+Special thanks to Huanyu Li and Marita Georganta our fantastic Faculty who ran the Hardware I module and to Sheikh Rizvi Riaz for assisting us with the use of the robots.
 
 ## REFERENCES
 
